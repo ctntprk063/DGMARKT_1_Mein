@@ -18,8 +18,6 @@ Feature:  Sorting Categories and Sub-Categories by Function
     And The user sorts Health and Beauty products by Sortname "Model (A - Z)"
     And The user sorts Health and Beauty products by Sortname "Model (Z - A)"
 
-
-
   Scenario Outline: The user sorts Televisions products
     When The user enters the personal username"batchyedi7@gmail.com"and password "BatchYedi.47"
     Then the user should be hover over  category Television
