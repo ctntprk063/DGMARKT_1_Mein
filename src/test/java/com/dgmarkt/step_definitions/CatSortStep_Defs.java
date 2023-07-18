@@ -61,4 +61,8 @@ public class CatSortStep_Defs {
     }
 
 
+    @And("The user sorts by {string} products")
+    public void theUserSortsByOptionsProducts(String option) {
+        catSortPage.sortSelect(option);
+    }
 }
