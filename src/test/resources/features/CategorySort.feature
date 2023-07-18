@@ -70,4 +70,3 @@ Feature:  Sorting Categories and Sub-Categories by Function
       | Model (A - Z)      |
       | Model (Z - A)      |
 
-    ##
